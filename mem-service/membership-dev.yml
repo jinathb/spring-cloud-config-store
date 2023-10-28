@@ -1,11 +1,9 @@
-server:
-  port: 8899
 member:
  rent:
-  min: 8
-  max: 31
+  min: 5
+  max: 40
  price:
-  discount: 3
+  discount: 3.5
 vehicle:
  default:
   model: cross over
